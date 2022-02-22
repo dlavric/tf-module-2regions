@@ -302,10 +302,10 @@ Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
 - Check the AWS Console for the instances in each region:
 
 Region us-east-1
-![Picture1](https://github.com/dlavric/tf-2regions/blob/main/Screenshot%2022-02-22%at%12.55.25.png)
+![Picture1](https://github.com/dlavric/tf-module-2regions/blob/main/Screenshot%202022-02-22%20at%2012.55.25.png)
 
 Region us-west-2
-![Picture2](https://github.com/dlavric/tf-2regions/blob/main/Screenshot%202022-02-18%20at%2010.28.55.png)
+![Picture2](https://github.com/dlavric/tf-module-2regions/blob/main/Screenshot%202022-02-22%20at%2012.55.25.png)
 
 
 ## Reference Documentation
